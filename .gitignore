@@ -1,0 +1,16 @@
+.qmake.stash
+.qmake.supersede
+*.user
+*.pro.user
+.moc
+.obj
+release
+debug
+build-
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+*.dll
+*.exe
+*.pdb
